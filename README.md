@@ -1,2 +1,2 @@
-# BGC_Pro
-A Brushless Gimbal Controller
+# Flying5_BGC
+A Brushless Gimbal Controller, design for GoPro and Quadcopter.
